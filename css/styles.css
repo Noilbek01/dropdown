@@ -173,4 +173,45 @@ main .container{
     margin-left: 10px;
     margin-top: 100px;
 }
+.years{
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+.years_h3{
+    color: #4543E8;
+    font-size: 60px;
+    line-height: 66px;
+    margin: 0 20px;
+}
+.years_p{
+    color: #000000;
+    font-size: 18px;
+    line-height: 30px;
+    margin: 10px 20px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+.ipmus{
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
 
+}
+.logo_p{
+    color: #010032;
+    margin-left: 5px;
+  
+}
+.digital_h2{
+    margin-left: 20px;
+    color: #000000;
+    font-size: 48px;
+    line-height: 53px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    
+}
