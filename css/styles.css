@@ -13,9 +13,32 @@ a{
     
 }
 body{
-    background-color: black;
+    background-color:#010032;
 }
 .container{
     width: 1140px;
     margin: 0 auto;
+}
+.list1{
+    display: flex;
+    align-items: center;
+}
+.item{
+    margin: 0 20px;
+    font-size: 15px;
+    line-height: 19px;
+}
+.link{
+    color:#FFFFFF;
+}
+.list2{
+    display: flex;
+}
+
+nav .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+
 }
