@@ -13,15 +13,20 @@ a{
     
 }
 body{
-    background-color:#010032;
+    background-color: #E5E5E5;
 }
 .container{
     width: 1140px;
     margin: 0 auto;
 }
+.img{
+    margin-top: 50px;
+}
+
 .list1{
     display: flex;
     align-items: center;
+    margin-top: 50px;
 }
 .item{
     margin: 0 20px;
@@ -33,15 +38,17 @@ body{
 }
 .list2{
     display: flex;
+    margin-top: 50px;
 }
 
 nav .container{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: 50px;
     border: 1px solid red;
-
+}
+header{
+    background-color:#010032;
 }
 main .container{
     margin-top: 100px;
@@ -113,3 +120,57 @@ main .container{
     font-size: 18px;
     line-height: 25px;
 }
+.section2{
+    background-color: #E5E5E5;
+}
+.section2 .container{
+    border: 1px solid black;
+    display:flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.about1 , .about2{
+    width: 45%;
+}
+.about_a{
+    color: #4543E8;
+    margin-left: 10px;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2px;
+}
+.iconka{
+    margin-left: 10px;
+}
+.steve{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+.steve_p{
+    color: #000000;
+    font-size: 18px;
+    line-height: 24px;
+    margin-left: 20px;
+}
+.steve_a{
+    color: #000000;
+    font-size: 15px;
+    line-height: 24px;
+    margin-left: 20px;
+}
+.alex{
+    margin-left: 10px;
+    color: #000000;
+    font-size: 19px;
+    line-height: 28px;
+    margin: 20px;
+}
+.section2_photo{
+    margin-left: 10px;
+}
+.img_sparcle{
+    margin-left: 10px;
+    margin-top: 100px;
+}
+
