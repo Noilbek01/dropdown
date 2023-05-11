@@ -215,3 +215,42 @@ main .container{
     font-style: normal;
     
 }
+.section3_photo{
+    display: flex;
+    margin-top: 50px;
+}
+.work_photo1, .work_photo2{
+    width: 47%;
+}
+.work_img1{
+    width: 510px;
+    height: 500px;
+}
+.tolqin{
+    width: 50px;
+    margin-left: -10px;
+}
+.work_a{
+    margin-left: 20px;
+}
+.work{
+    display: flex;
+    align-items: center;
+    margin: 30px;
+}
+.work_img2{
+    width: 620px;
+    height: 660px;
+}
+.work_h3{
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    margin-top: 30px;
+}
+.work_p{
+    color: #000000;
+    font-size: 12px;
+    line-height: 27px;
+    margin-top: 30px;
+}
