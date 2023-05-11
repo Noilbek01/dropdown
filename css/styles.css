@@ -254,3 +254,39 @@ main .container{
     line-height: 27px;
     margin-top: 30px;
 }
+.work_img3{
+    width: 740px;
+    height: 555px;
+}
+.section3_photo2{
+    margin-left:300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.arrow1{
+    display: flex;
+    align-items: center;
+}
+.arrow2{
+    display: flex;
+    align-items: center;
+}
+.arrow3{
+    display: flex;
+    align-items: center;
+}
+.work_arrow1{
+    width: 28px;
+    margin-bottom: -20px;
+    margin-left: 250px;
+}
+.work_arrow2{
+    width: 28px;
+    margin-bottom: -20px;
+    margin-left: 240px;
+}
+.work_arrow3{
+    width: 28px;
+    margin-bottom: -20px;
+    margin-left: 490px;
+}
