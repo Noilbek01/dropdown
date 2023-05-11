@@ -290,3 +290,6 @@ main .container{
     margin-bottom: -20px;
     margin-left: 490px;
 }
+.section4 .container{
+    display: flex;
+}
