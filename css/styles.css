@@ -342,3 +342,57 @@ main .container{
 .view_p{
     color: #FFFFFF;
 }
+.section5{
+    background-color: #010032;
+    margin-bottom: 50px;
+}
+.pushing{
+    display: flex;
+    margin-top: 30px;
+}
+.services{
+    color: #FFFFFF;
+    font-size: 48px;
+    line-height: 53px;
+    margin-top: 30px;
+}
+.brading{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.brading_h3{
+    color: #FFFFFF;
+    font-size: 24px;
+    line-height: 29px;
+    margin-top: 30px;
+}
+.brading_p{
+    color: #FFFFFF;
+    font-size: 18px;
+    margin: 30px 0;
+    line-height: 27px;
+    width: 80%;
+}
+.packaging{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.packaging_h3{
+    color: #FFFFFF;
+    font-size: 24px;
+    line-height: 29px;
+    margin-top: 30px;
+}
+.packaging_p{
+    color: #FFFFFF;
+    font-size: 18px;
+    margin: 30px 0;
+    line-height: 27px;
+    width: 80%;
+}
+.services_a{
+    color: #FFFFFF;
+    margin-left: 15px;
+    font-size: 18px;
+    line-height: 21px;
+}
