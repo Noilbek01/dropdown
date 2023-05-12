@@ -680,13 +680,23 @@ main .container{
 }
 .fa-arrow-right{
     margin-left: -10px;
-    opacity: 0%;
+    opacity: 10%;
+    transition: 1s;
+}
+.fa-arrow-left{
+    margin-left: 10px;
+    opacity: 10%;
     transition: 1s;
 }
 .fa-arrow-right:hover{
     opacity: 100%;
     transform: scaleX(1);
     margin-left: 20px;
+}
+.fa-arrow-left:hover{
+    opacity: 100%;
+    transform: scaleX(1);
+    margin-left: -20px;
 }
 
 
