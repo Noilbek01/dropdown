@@ -707,5 +707,11 @@ main .container{
     display: flex;
     align-items: center;
 }
+.blog-a{
+    margin-left: 10px;
+    font-size: 16px;
+    line-height: 24px;
+}
+
 
 
