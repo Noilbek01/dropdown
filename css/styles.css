@@ -642,17 +642,25 @@ main .container{
 }
 .blog_box2{
     display: flex;
-    align-items: center;
     justify-content: space-between;
     padding: 30px 0;
 }
 .blog_img{
-    transition: 1s;
+    transition: 2s;
 }
 .blog_img:hover{
     opacity: 70%;
     transform: translate(10px);
     transform: scale(0.8);
+}
+.blog_a{
+    font-size: 18px;
+    line-height: 21px;
+    transition: 1s;
+    margin-bottom: 20px ;
+}
+.blog_a:hover{
+    color: rgb(220, 173, 173);
 }
 
 
