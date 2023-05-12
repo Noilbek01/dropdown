@@ -430,3 +430,70 @@ main .container{
 .section6{
     background-color: #D8D8EB;
 }
+.alex_box{
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+}
+.alex_box2{
+    display: flex;
+    align-items: center;
+}
+.alex_box1{
+    border: 1px solid #FFFFFF;
+    padding: 20px;
+    width: 576px;
+    height: 360px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+
+
+}
+.alex_box3{
+    margin-left: 150px;
+    border: 1px solid #FFFFFF;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    padding: 20px;
+    width: 576px;
+    height: 360px;
+    margin-bottom: 50px;
+
+}
+.alex_img1{
+    margin:0  5px ;
+}
+.alex_img{
+    margin-left: -5px;
+    margin: 20px 0;
+}
+.alex_h3{
+    color: #000000;
+    font-size: 24px;
+    line-height: 29px;
+    margin-bottom: 20px;
+}
+.alex_p{
+    color: #000000;
+    font-size: 18px;
+    line-height: 27px;
+    margin-bottom: 20px;
+}
+.alex_b{
+    color: #000000;
+     
+}
+.alex_boxs1{
+    text-align: center;
+    padding-top: 50px;
+}
+.clients_h2{
+    margin: 20px 0;
+}
+.clients_a{
+    margin: 0 10px;
+    font-size: 16px;
+    line-height: 24px;
+}
+
