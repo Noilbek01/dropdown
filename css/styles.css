@@ -662,5 +662,31 @@ main .container{
 .blog_a:hover{
     color: rgb(220, 173, 173);
 }
+.blog_h3{
+    font-size: 21px;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+.blog_p{
+    width: 70%;
+}
+.post_a{
+    margin-right: 10px;
+}
+.post{
+    border-bottom: 1px solid #423fd0;
+    margin-bottom: 297px;
+    cursor: pointer;
+}
+.fa-arrow-right{
+    margin-left: -10px;
+    opacity: 0%;
+    transition: 1s;
+}
+.fa-arrow-right:hover{
+    opacity: 100%;
+    transform: scaleX(1);
+    margin-left: 20px;
+}
 
 
