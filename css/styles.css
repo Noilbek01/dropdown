@@ -630,7 +630,7 @@ main .container{
 .frozen_icon{
     text-align: center;
     padding-bottom: 10px;
-    width: 155px;
+    width: 180px;
     margin: 100px auto;
     border-bottom: 1px solid #4543E8;
 }
@@ -712,6 +712,29 @@ main .container{
     font-size: 16px;
     line-height: 24px;
 }
-
+.blog_h2{
+    font-size: 36px;
+    line-height: 50px;
+    width: 60%;
+    margin: 20px 0;
+}
+.blog_icon{
+    border-radius: 5px;
+}
+.blog_a{
+    text-align: center;
+    margin-right: 10px;
+    margin-bottom: -10px;
+    color: #FFFFFF;
+}
+button{
+    padding: 10px 20px;
+    background-color: #423fd0;
+    border-radius: 50px;
+    transition: 2s;
+}
+button:hover{
+    opacity: 20%;
+}
 
 
