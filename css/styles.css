@@ -698,5 +698,14 @@ main .container{
     transform: scaleX(1);
     margin-left: -20px;
 }
+.blog_box1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.blogg{
+    display: flex;
+    align-items: center;
+}
 
 
