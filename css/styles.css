@@ -496,4 +496,22 @@ main .container{
     font-size: 16px;
     line-height: 24px;
 }
+.alex_icon{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.fa-arrow-left{
+    color: #4543E8;
+    margin:0 20px ;
+}
+.fa-arrow-right{
+    color: #4543E8;
+}
+.fa-arrow-left:hover{
+    transform:translateX(-5px);
+}
+.fa-arrow-right:hover{
+    transform:translateX(5px);
+}
+
 
