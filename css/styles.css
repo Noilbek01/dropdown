@@ -820,6 +820,24 @@ button:hover{
 footer{
     background-color: #010032;
 }
+hr{
+    color: white;
+}
+.footer_photo{
+    display: flex;
+    align-items:center;
+    margin-bottom: 50px;
+}
+.footer_title{
+    display: flex;
+    align-items: center;
+    margin: 50px 0;
+}
+.footer_list{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 0;
+}
 
 
 
