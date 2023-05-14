@@ -908,6 +908,16 @@ hr{
     border: 1px solid #010032;
     transition: 1s;
 }
+.contact_img{
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.footer_contact{
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 25px;
+    margin-top: 20px;
+}
 
 
 
