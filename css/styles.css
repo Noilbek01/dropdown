@@ -918,8 +918,10 @@ hr{
     line-height: 25px;
     margin-top: 20px;
 }
-.footer_links{
+.footer_link{
     display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 
