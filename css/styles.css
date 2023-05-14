@@ -922,10 +922,18 @@ hr{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding-bottom: 50px;
 }
 .footer_links{
     display: flex;
     align-items: center;
+}
+.item_li{
+    margin: 0 10px;
+    cursor: pointer;
+}
+.item_a:hover{
+    color: rgb(212, 114, 114);
 }
 
 
