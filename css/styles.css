@@ -659,9 +659,6 @@ main .container{
     transition: 1s;
     margin-bottom: 20px ;
 }
-.blog_a:hover{
-    color: rgb(220, 173, 173);
-}
 .blog_h3{
     font-size: 21px;
     line-height: 24px;
@@ -675,7 +672,7 @@ main .container{
 }
 .post{
     border-bottom: 1px solid #423fd0;
-    margin-bottom: 297px;
+    margin-bottom: 257px;
     cursor: pointer;
 }
 .fa-arrow-right{
@@ -711,6 +708,7 @@ main .container{
     margin-left: 10px;
     font-size: 16px;
     line-height: 24px;
+    cursor: pointer;
 }
 .blog_h2{
     font-size: 36px;
@@ -735,6 +733,15 @@ button{
 }
 button:hover{
     opacity: 20%;
+}
+.blog_text{
+    width: 40%;
+}
+.bolog_a1{
+    cursor: pointer;
+}
+.blog_h3{
+    margin-top: 20px;
 }
 
 
