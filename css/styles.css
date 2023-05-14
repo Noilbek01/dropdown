@@ -725,13 +725,13 @@ main .container{
     margin-bottom: -10px;
     color: #FFFFFF;
 }
-button{
+.blog_button{
     padding: 10px 20px;
     background-color: #423fd0;
     border-radius: 50px;
     transition: 2s;
 }
-button:hover{
+.blog_button:hover{
     opacity: 20%;
 }
 .blog_text{
@@ -864,11 +864,19 @@ hr{
     color: #FFFFFF;
     margin: 15px 0;
     cursor: pointer;
+    transition: 0.6s;
+}
+.item_a:hover{
+    color: rgb(204, 133, 133);
 }
 .footer_a{
     margin-top: 15px;
     color: #FFFFFF;
     cursor: pointer;
+    transition: 0.6s;
+}
+.footer_a:hover{
+    color: rgb(204, 133, 133);
 }
 .footer_p{
     color: #FFFFFF;
@@ -876,10 +884,29 @@ hr{
 }
 .footer_text .footer_button1{
     margin-top: 30px;
-    width: 150px;
+    width: 200px;
     height: 30px;
-    color: #010032;
-
+    background-color: #10102f;
+    cursor: pointer;
+    border-radius: 15px;
+    border: 1px solid #010032;
+    transition: 1s;
+}
+.footer_text .footer_button1:hover{
+    transform: scaleY(0.9);
+}
+.footer_text .footer_button2:hover{
+    transform: scaleY(0.9);
+}
+.footer_text .footer_button2{
+    background-color: #423fd0;
+    margin-left: 30px;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+    border-radius: 15px;
+    border: 1px solid #010032;
+    transition: 1s;
 }
 
 
