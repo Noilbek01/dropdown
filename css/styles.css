@@ -923,6 +923,10 @@ hr{
     align-items: center;
     justify-content: space-between;
 }
+.footer_links{
+    display: flex;
+    align-items: center;
+}
 
 
 
