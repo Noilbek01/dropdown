@@ -679,11 +679,14 @@ main .container{
     margin-left: -10px;
     opacity: 10%;
     transition: 1s;
+    cursor: pointer;
 }
 .fa-arrow-left{
     margin-left: 10px;
     opacity: 10%;
     transition: 1s;
+    cursor: pointer;
+
 }
 .fa-arrow-right:hover{
     opacity: 100%;
@@ -772,6 +775,7 @@ main .container{
 .work1_box1 .fa-arrow-right{
     color:white;
     opacity: 100%;
+    cursor: pointer;
 }
 .work1_box1{
     margin-left: 80px;
