@@ -860,6 +860,27 @@ hr{
     margin-left: 80px;
     
 }
+.item_a{
+    color: #FFFFFF;
+    margin: 15px 0;
+    cursor: pointer;
+}
+.footer_a{
+    margin-top: 15px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.footer_p{
+    color: #FFFFFF;
+    margin-top: 15px;
+}
+.footer_text .footer_button1{
+    margin-top: 30px;
+    width: 150px;
+    height: 30px;
+    color: #010032;
+
+}
 
 
 
